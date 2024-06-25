@@ -1,0 +1,5 @@
+WT_rdup.bam	250	Parent
+C1R1_rdup.bam	250	C1R1
+C1R2_rdup.bam	250	C1R2
+C1R3_rdup.bam	250	C1R3
+C2R1_rdup.bam	250	C2R1
